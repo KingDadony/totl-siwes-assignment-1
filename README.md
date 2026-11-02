@@ -1,11 +1,11 @@
 # TOLT SIWES Assignment 1 – Personal Landing Page
 
 ## Student Details
-- **Full Name:** Your Name
-- **Institution:** Your Institution
-- **Course:** Your Course
-- **GitHub:** https://github.com/yourusername
-- **Live Site:** https://yourusername.github.io/tolt-siwes-assignment-1/
+- **Full Name:** CHIKEZE ANTHONY CHIBUIKEM
+- **Institution:** State University of Medical and Applied Sciences(SUMAS) 
+- **Course:** Computer Science
+- **GitHub:** https://github.com/KingDadony
+- **Live Site:** https://KingDadony.github.io/tolt-siwes-assignment-1/
 
 ## Project Description
 A responsive personal landing page built as part of the T-One T-Resources
