@@ -1,4 +1,4 @@
-# TOLT SIWES Assignment 1 – Personal Landing Page
+# TOTL SIWES Assignment 1 – Personal Landing Page
 
 ## Student Details
 - **Full Name:** CHIKEZE ANTHONY CHIBUIKEM
